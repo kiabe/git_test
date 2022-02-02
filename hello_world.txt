@@ -1,1 +1,3 @@
 Salutations to all who read this!
+
+testing git commit message with VSC text editor
